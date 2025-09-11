@@ -3,8 +3,6 @@ def main():
     quantity = 5 
 
     # YOUR CODE FOR PART 1 GOES HERE
-    cost_per_item = 19.99
-    quantity = 5  
     subtotal_cost = cost_per_item*quantity 
     tax = subtotal_cost*0.13
     total_cost = subtotal_cost + tax
