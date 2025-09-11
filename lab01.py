@@ -9,7 +9,7 @@ def main():
     total_cost = subtotal_cost + tax
 
     # YOUR CODE FOR PART 2 GOES HERE 
-    print(f'cost_per_item =', cost_per_item) # a sample for you to use for the other prices
+    print(f'cost_per_item = ${cost_per_item:0.2f}') # a sample for you to use for the other prices
     print(f'quantity =', quantity)
     print(f'subtotal_cost = ${subtotal_cost:0.2f}')
     print(f'tax = ${tax:0.2f}')
