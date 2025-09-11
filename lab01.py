@@ -27,5 +27,5 @@ def main():
     print('After 5 years, your investment will be worth ' , investment , ' dollars.')
     # expected output: After 5 years, your investment will be worth 1187.6863056468749 dollars.
 
-if __name__ == "__main__":
+if __name__ == "__main__":   
     main()
